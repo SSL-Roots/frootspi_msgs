@@ -28,6 +28,7 @@ set(msg_files
   "msg/SwitchesState.msg"
   "msg/WheelVelocities.msg"
   "msg/KickCommand.msg"
+  "msg/SpeakerVoice.msg"
 )
 
 set(srv_files
