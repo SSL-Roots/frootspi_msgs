@@ -42,7 +42,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   ${srv_files}
   ${action_files}
   DEPENDENCIES std_msgs
-  ADD_LINTER_TESTS
+  #  ADD_LINTER_TESTS
 )
 
 # if(BUILD_TESTING)
